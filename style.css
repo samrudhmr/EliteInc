@@ -1,0 +1,50 @@
+.top_header
+{
+    background-color: black; 
+    height: 50px;   
+}
+
+.logo
+{
+    width:40px;
+    justify-content: center;
+}
+.disp_carousel
+{
+    border-width: 600;
+    height: 500;
+    padding-left: 300;
+    padding-right: 300;
+    border-color: black;
+}
+#mini
+{ 
+    width: 700px;
+    height: 3px;
+    border-color: black;
+}
+.product-personalisation-items {
+    display: flex;
+    width: 100%;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.product-personalisation-content {
+    border: 1px solid #e4e4e4;
+    padding: 0px!important;
+}
+.product-personalisation {
+    text-align: center;
+    margin-top: 30px;
+}
+.product-personalisation-info-title
+{
+    color: black;
+    text-align: center;
+}
+.footer
+{
+    height: 300px;
+    color: blanchedalmond;
+    background-color: black;
+}
